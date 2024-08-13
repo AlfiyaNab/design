@@ -6,3 +6,8 @@
 Тестирование фильтрации и сортировки
 
 https://docs.google.com/spreadsheets/d/1nTox4lJDxkOXnjwhPmpdGaoBSX71pTkkJ8gcItWtfQg/edit?usp=sharing
+
+
+Таблица принятия решений
+
+https://docs.google.com/spreadsheets/d/19xKnz1N5claHFPdVWdwjkarZnRUgM62YXiwjobtCNPs/edit?usp=sharing
