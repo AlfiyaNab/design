@@ -3,3 +3,6 @@
 
 (https://docs.google.com/spreadsheets/d/1fvE9dr8ju4CwQERuvOD-GBtDMUmOyY7aLhMtH9ExkGk/edit?usp=sharing)
 
+Тестирование фильтрации и сортировки
+
+https://docs.google.com/spreadsheets/d/1nTox4lJDxkOXnjwhPmpdGaoBSX71pTkkJ8gcItWtfQg/edit?usp=sharing
